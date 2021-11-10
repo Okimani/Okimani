@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okimani
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Git, HTML, CSS , 
+- 🌱 I’m currently learning Git, HTML, CSS , AWS, AZURE
 - 💞️ I’m looking to collaborate on HTML, Git, CSS, AWS, Azure, GCP
 - 📫 How to reach me ...
 
