@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okimani
-- 👀 I’m interested in colloborating in Cloud Computing- AWS, Azure, Git, Web Development - HTML, CSS, Bootstrap, React, Javascript.
-- 🌱 I’m currently learning Git, HTML, CSS , AWS, AZURE and Javascript
+- 👀 I’m interested in colloborating in Cloud Computing- AWS, Azure, Git, Software Engineering, DevOps, Python Projects, Web Development - HTML, CSS, Bootstrap, React, Javascript.
+- 🌱 I’m currently learning Git, AWS, Azure, Python, Javascript, DevOps, Jenkins, Docker, Kubernetes
 - 💞️ I’m looking to collaborate on HTML, Git, CSS, AWS, Azure, GCP
 - 📫 How to reach me ...
 
